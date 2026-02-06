@@ -22,7 +22,7 @@ for analyzing Formula 1 race results and predicting driver positions.
     <li><b>001 Preprocessing.ipynb</b></li>
     <ul>
         <li>
-            <a href="001%20Preprocessing.ipynb">001 Preprocessing.ipynb</a>  
+            <a href="https://github.com/Hamid-progs/f1-race/blob/main/001%20Preprocessing.ipynb">001 Preprocessing.ipynb</a>  
             – Notebook used to clean and preprocess the scraped data.
         </li>
         <li>
