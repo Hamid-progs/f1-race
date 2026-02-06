@@ -63,22 +63,27 @@ for analyzing Formula 1 race results and predicting driver positions.
             Contains images used in the project or documentation.
         </li>
     </ul>
-    <li><b>Result Image</b></li>
-    <img src='./img/result.png'>
 </ul>
+
+<h2>Result Image</h2>
+
+<img src='./img/result.PNG'>
+<img src='./img/images.jpg' width=100%>
 
 <h2>Technologies Used</h2>
 
 <ul>
     <li>Python</li>
+    <li>BeautifulSoup</li>
     <li>Pandas</li>
     <li>NumPy</li>
     <li>Scikit-learn</li>
+    <li>Model Used for Prediction RandomForestClassifier </li>
     <li>Jupyter Notebook</li>
 </ul>
 
 <h2>Author</h2>
 
 <p>
-Hamid-progs
+<b>Hamid-progs Contact via <a href='https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba'><u>Linkedin</u></a></b>
 </p>
