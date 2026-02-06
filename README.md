@@ -1,5 +1,6 @@
 <h1>F1 Race Data Analysis & Position Prediction</h1>
 <img src='./img/Untitled design.png' height=400 width=100%>
+
 <p>
 This repository contains data scraping, preprocessing, and machine learning models
 for analyzing Formula 1 race results and predicting driver positions.
@@ -37,11 +38,13 @@ for analyzing Formula 1 race results and predicting driver positions.
     <li><b>Position Prediction</b></li>
     <ul>
         <li>
-            model_selection.ipynb  
+            <a href="https://github.com/Hamid-progs/f1-race/blob/main/Position%20Prediction/Model_Selection.ipynb">
+                model_selection.ipynb
+            </a>
             – Model selection based on accuracy and evaluation metrics.
         </li>
         <li>
-            <a href="Position%20Prediction/Driver_position_prediction.ipynb">
+            <a href="https://github.com/Hamid-progs/f1-race/blob/main/Position%20Prediction/Driver_position_prediction.ipynb">
                 Driver_position_prediction.ipynb
             </a>  
             – Predicts driver positions using 2025 data as the test dataset.
@@ -64,6 +67,17 @@ for analyzing Formula 1 race results and predicting driver positions.
         </li>
     </ul>
 </ul>
+<h2>Kaggle Dataset</h2>
+
+<p>
+The Formula 1 race results dataset used in this project is also available on Kaggle:
+</p>
+
+<p>
+<a href="https://www.kaggle.com/datasets/hamidrana/f1-race-results-2015-2025">
+https://www.kaggle.com/datasets/hamidrana/f1-race-results-2015-2025
+</a>
+</p>
 
 <h2>Result Image</h2>
 
@@ -78,12 +92,17 @@ for analyzing Formula 1 race results and predicting driver positions.
     <li>Pandas</li>
     <li>NumPy</li>
     <li>Scikit-learn</li>
-    <li>Model Used for Prediction RandomForestClassifier </li>
+    <li>Model Used for Prediction RandomForestClassifier</li>
     <li>Jupyter Notebook</li>
 </ul>
 
 <h2>Author</h2>
 
 <p>
-<b>Hamid-progs Contact via <a href='https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba'><u>Linkedin</u></a></b>
+<b>
+Hamid-progs Contact via 
+<a href="https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba">
+<u>LinkedIn</u>
+</a>
+</b>
 </p>
