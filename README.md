@@ -11,7 +11,7 @@ for analyzing Formula 1 race results and predicting driver positions.
     <li><b>Data Scraping</b></li>
     <ul>
         <li>
-            <a href="Data%20Scraping/Result_Scraper.ipynb">Result_Scraper.ipynb</a>  
+            <a href="https://github.com/Hamid-progs/f1-race/blob/main/Data%20Scraping/Final_Scraper.ipynb">Result_Scraper.ipynb</a>  
             – Notebook used to scrape Formula 1 race results.
         </li>
         <li>
